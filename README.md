@@ -1,3 +1,3 @@
 # PLP
 Assignments from Software Development course
-is this a readme?
+This is a code trying to print a statement in a new file.
